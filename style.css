@@ -1,0 +1,98 @@
+body{
+    background-color: black
+}
+.basliq{
+    
+    display:flex;
+    justify-content:space-between;
+    
+    
+    
+    
+    
+}
+.vaxt li{
+    display: inline-block;
+    color: white ;
+    padding: 5px;
+    
+}
+.naviqasiya a{
+    display: inline-block;
+    color: white;
+    padding: 10px;
+}
+
+
+.ekran{
+    background-position: 0;
+}
+
+.navbar{
+    background-color: white;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    
+}
+.secimler a {
+    display: inline-block;
+    color: black;
+    
+    
+    margin-left: 170px;
+    margin-right: 20px;
+    
+    
+    
+}
+.search{
+    margin-right: 15px;
+    color: black;
+}
+.avto{
+    display:inline-block;
+    
+    width: 300px; 
+    margin-left: 95px;
+    margin-top: 50px;
+    
+}
+.avto img {
+   
+    width: 300px;
+    
+}
+
+
+
+
+
+
+video {
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: 500px;
+   
+}
+.sonluq{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    
+}
+.sosial a{
+    color: black;
+    margin: 20px;
+    display: inline-block;
+    font-size: 30px;
+    
+}
+.sonluqtext h5{
+    font-size: 20px;
+    display: inline-block;
+    margin: 20px;
+    margin-right: 20px;
+}
